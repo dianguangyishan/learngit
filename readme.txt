@@ -3,4 +3,4 @@ git is a control software.
 git is a distribute software.
 git has a workspace and it has a stage.
 oh my god!
-hello.i am here.
+oh,i amnot here now.
